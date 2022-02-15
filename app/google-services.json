@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "659731628947",
+    "firebase_url": "https://fitness-8fb54-default-rtdb.firebaseio.com",
+    "project_id": "fitness-8fb54",
+    "storage_bucket": "fitness-8fb54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659731628947:android:1b872207afee01b1ebde66",
+        "android_client_info": {
+          "package_name": "com.sergnf.ffintess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659731628947-b6eqj01ikkcsrm5lm0vr4gge0upunqia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwOJhf1z8S7uLOw7e8GP6idFX0Bs4PEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659731628947-b6eqj01ikkcsrm5lm0vr4gge0upunqia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659731628947:android:82a38bfe475ab4e1ebde66",
+        "android_client_info": {
+          "package_name": "com.sergnf.finess_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659731628947-b6eqj01ikkcsrm5lm0vr4gge0upunqia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwOJhf1z8S7uLOw7e8GP6idFX0Bs4PEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659731628947-b6eqj01ikkcsrm5lm0vr4gge0upunqia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659731628947:android:daeb366221804ab9ebde66",
+        "android_client_info": {
+          "package_name": "com.sergnf.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659731628947-h5630qng3navhps6hlj0ufu2sr5ufmgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sergnf.fitness",
+            "certificate_hash": "49a3d95e26639605d99063fec2c311955988fe5f"
+          }
+        },
+        {
+          "client_id": "659731628947-b6eqj01ikkcsrm5lm0vr4gge0upunqia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwOJhf1z8S7uLOw7e8GP6idFX0Bs4PEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659731628947-b6eqj01ikkcsrm5lm0vr4gge0upunqia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:state_pressed="true"  android:drawable="@drawable/ic_vector1">
+<!--        <shape android:shape="rectangle">-->
+<!--            &lt;!&ndash;            <solid android:color="@color/colorStatePressed" />&ndash;&gt;-->
+            <gradient android:startColor="#ACD6D6" android:endColor="#2657A1"  android:angle="-90.0"/>
+<!--            <corners android:radius="8dp" />-->
+        <!--        </shape>-->
+    </item>
+
+    <!--    <item android:drawable="@drawable/ic_vector1" >-->
+    <!--        <solid android:color="@color/colorStateEnabled" />-->
+
+    <!--    </item>-->
+
+    <item android:state_enabled="true"  android:drawable="@drawable/ic_vector1">
+        <!--        <shape android:shape="rectangle">-->
+        <!--            <solid android:color="@color/colorStateEnabled" />-->
+        <gradient android:startColor="#ACD6D6" android:endColor="#2657A1"  android:angle="-90.0"/>
+        <!--            <corners android:radius="8dp" />-->
+<!--        </shape>-->
+    </item>
+
+    <item android:state_enabled="false" android:drawable="@drawable/ic_vector1" android:color="@color/colorStateNotEnabled">
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="@color/colorStateNotEnabled" />-->
+<!--            <corners android:radius="8dp" />-->
+<!--        </shape>-->
+    </item>
+
+</selector>

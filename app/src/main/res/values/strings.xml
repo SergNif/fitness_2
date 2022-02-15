@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FFintess</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="privet">Приветствие</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="todo">TODO</string>
+    <string name="already_register_here">Нет аккаунта ? Регитрация</string>
+    <string name="already_login_here">Уже зарегистрированы? LOGIN</string>
+    <string name="authen_app">Authenticator_App</string>
+    <string name="registr">Регистрация</string>
+    <string name="login">LOGIN</string>
+    <string name="no_account_to_reg">Нет аккаунта? Регистрация</string>
+    <string name="_123456">123456</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

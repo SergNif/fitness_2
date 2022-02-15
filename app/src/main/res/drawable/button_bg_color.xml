@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+        <color android:color="@color/colorStatePressed"></color>
+    </item>
+
+    <item android:drawable="@drawable/ic_vector1">
+    </item>
+
+    <item android:state_enabled="true">
+        <color android:color="@color/colorStateEnabled"></color>
+    </item>
+
+    <item android:state_enabled="false">
+        <color android:color="@color/colorStateNotEnabled"></color>
+    </item>
+
+</selector>
